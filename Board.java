@@ -12,4 +12,6 @@ public class Board {
     private String title;
     private String author;
     // getter/setter 생략
+
+//b가 또수정함
 }
