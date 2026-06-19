@@ -6,6 +6,8 @@
 //변경대
 //변경초
 public class Board {
+
+//a계정이 또수정함
     private int    id;
     private String title;
     private String author;
